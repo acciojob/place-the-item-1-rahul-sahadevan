@@ -2,7 +2,7 @@
 	width:100vw;
 	display:flex;
 	justify-content:space-between;
-	felx-wrap:wrap;
+	flex-wrap:wrap;
 }
 .holder>div{
 	width:50px;
@@ -12,5 +12,6 @@
 	padding:15px;
 	background-color:red;
 	color:white;
+	margin-bottom:10px;
 }
 /* Your CSS Code here. */
